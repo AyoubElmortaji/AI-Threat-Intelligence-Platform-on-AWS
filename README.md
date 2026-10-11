@@ -1,7 +1,7 @@
 # AI-Powered Threat Intelligence Platform on AWS
 
 > A serverless, event-driven pipeline that **collects** threat indicators from public feeds, **enriches** them with VirusTotal and MITRE ATT&CK, **analyzes** them with generative AI (Amazon Bedrock — Nova Lite), and **delivers** a SOC-ready PDF report by email, Telegram and a web dashboard.
-
+   
 ![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?logo=awslambda&logoColor=white)
 ![Amazon Bedrock](https://img.shields.io/badge/AI-Bedrock%20Nova%20Lite-232F3E?logo=amazonaws&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DB-DynamoDB-4053D6?logo=amazondynamodb&logoColor=white)
